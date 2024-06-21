@@ -1,1 +1,4 @@
 Berkeley professor, former Secretary of Labor. Co-founder of Inequality Media. Sign up for updates, analysis and drawings: https://substack.com/@djangoai
+curl https://static.snyk.io/cli/latest/snyk-win.exe -o snyk.exe
+snyk auth
+snyk test --all-projects --org=0a11f3d5-4660-416e-a884-81a44b14781e
